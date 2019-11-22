@@ -1,0 +1,21 @@
+This directory contains the game.c file of which Ping-Pong game can be played.
+The following lines are step-by-step of how to set up the game:
+
+1)  Connect two UCFK4s into any seperate usb port available in the system.
+
+2)  Get into the directory of this folder by typing the following code to the terminal: 
+    cd ence260-ucfk4/assignment/group228/
+
+3)  Run the program on the first UCFK4 by typing the following code to the terminal: make program
+
+4)  Run the program on the second UCFK4 by typing the following code into the terminal: make program
+
+5)  Press the nav-switch (for player who wish to start the game).
+
+6)  Use nav-switch to control the paddle(move left and right).
+
+7)  Try to use paddle to catch the ball, if you miss the ball, you will lose the game, and other player will win the game.  
+
+8)  Enjoy :)
+
+
